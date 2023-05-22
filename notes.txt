@@ -1,0 +1,10 @@
+1 install Create React App global
+    npm install -g create-react-app
+2 Project Create
+    npx create-react-app react-project
+3 Entry to folder
+    cd react-project
+4 Init develop Server
+    npm start
+5 Project Modification
+    ./src/App.js
